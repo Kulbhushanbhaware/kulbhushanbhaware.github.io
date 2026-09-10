@@ -15,6 +15,10 @@ Hi there, I'm Kulbhushan Bhaware 👋
 
 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulbhushanbhaware&theme=dark" alt="GitHub Streak" />
+</p>
+
 ![Kulbhushan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kulbhushanbhaware&theme=dark)
 ![Top Langs](https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=kulbhushanbhaware&layout=compact&theme=dark)
 
