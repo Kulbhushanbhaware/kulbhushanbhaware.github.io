@@ -19,8 +19,11 @@ Hi there, I'm Kulbhushan Bhaware 👋
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulbhushanbhaware&theme=dark" alt="GitHub Streak" />
 </p>
 
-
-
 📫 Connect with me:
 - LinkedIn: [Kulbhushan Bhaware](https://linkedin.com)
 - Portfolio: [kulbhushanbhaware.github.io](https://kulbhushanbhaware.github.io)
+
+  ### 🛠️ Featured Projects
+- 📌 **[Employee Management System](https://github.com/Kulbhushanbhaware/EmployeeManagementSystem)** - Built with ASP.NET Core MVC, EF Core, & SQL Server.
+- 📌 **[Library Management System](https://github.com/Kulbhushanbhaware/ElibraryManagement)** - Complete library transaction management application.
+- 📌 **[DB Operations with EF Core](https://github.com/Kulbhushanbhaware/DbOperationsWithEFCore)** - Backend database operations and queries.
