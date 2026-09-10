@@ -14,8 +14,8 @@ Hi there, I'm Kulbhushan Bhaware 👋
 
 
 📈 GitHub Stats
-![Kulbhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulbhushanbhaware&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kulbhushanbhaware&layout=compact&theme=dark)
+![Kulbhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulbhushanbhaware&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulbhushanbhaware&layout=compact&theme=dark&cache_seconds=1800)
 
 
 📫 Connect with me:
